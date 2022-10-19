@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "901250911553",
+    "project_id": "minihackaton-7e806",
+    "storage_bucket": "minihackaton-7e806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901250911553:android:9884aa56a88a106fa2a5c0",
+        "android_client_info": {
+          "package_name": "com.example.mini_hackaton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901250911553-qjk8u0dnols58s36fsou5kfb0h6a47jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk1ggJGlZwRX2Qhi0tvU8BsORbgYkEqCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901250911553-qjk8u0dnols58s36fsou5kfb0h6a47jr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
